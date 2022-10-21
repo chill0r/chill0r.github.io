@@ -20,7 +20,15 @@ const messages = new Array(
     "Read previous commit message",
     "Why The Fuck?",
     "Fixed speling",
-    "message"
+    "message",
+    "What is a commit message?",
+    "Why should I write commit messages??",
+    "Unable to close vim... PLZ HELP!!",
+    "code is self-explanatory",
+    "debugging",
+    "Removed private key (plz don't look at the previous commits)",
+    "Merged dev branch 'BROKEN'",
+    "Restarting developer... Please wait...",
 );
 
     
